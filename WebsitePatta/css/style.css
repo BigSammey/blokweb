@@ -314,26 +314,6 @@ main p {
     height: 496px;
 }
 
-.loadbutton {
-    display: flex;
-    justify-content: center;
-    margin: 32px 0;
-}
-
-.loadbutton button {
-    background: #000;
-    margin-bottom: 0;
-    padding: 10px 20px;
-    border: none;
-}
-
-.loadbutton button a {
-    color: #fff;
-    border: none;
-    font-weight: 700;
-    text-decoration: none;
-}
-
 
 .footwearcard {
     display: grid;
