@@ -60,26 +60,40 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  - De screenreader werkt op de site van PATTA. De screenreader pakt alleen niet alle links, van de NAV-overlay pakt hij niet de links die subcategoriën bevatten. De link van het winkelwagentje pakt hij ook niet. 
+  - De website bevat ook een navigatiebalk, als je erover heen hovert klapt er een venster uit en dit is niet mogelijk met de screenreader. 
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  - Het probleem met de nav-overlay kan gefixt worden door simpelweg een nieuwe nav-overlay te bouwen met daarin links als subcategoriën ipv 'A' tags. 
+  - Het oplossen van de vensters die zich in de navigatiebalk verschuilen weet ik niet precies. 
 
 
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  - Door middel van de Tab toets kan je door de website navigeren. Het werkt prima maar ik ben erachter gekomen dat je toch echt een muis nodig hebt om een maat te kunnen selecteren van een toets. Ik heb dus geprobeerd om een artikel te bestellen en het is dus dmv de tab key + pijltjes alleen mogelijk om een XS te bestellen. 
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  - Ik denk ook hierbij dat nieuwe links een oplossing kunnen zijn voor de 'A' tags die niet gepakt worden. 
 
 
   #### Motoriek (shocks, elastiekjes)
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  - Elastiekjes: Met de elastiekjes om de vingers voelt het minder prettig om door de website te navigeren. Dit is puur omdat je dit niet gewend bent maar ik geloof dat het voor mensen die een beperking hebben echt wel te doen is om door de website te navigeren. Dit kan door middel van de screenreader of door de TAB-key. 
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  - Shocks: Het schok apparaat is ook om gedaan en hiermee is ook gebruik gemaakt van de website. Heel eerlijk werkte het niet perce heel chill maar het was wel te doen. Ik geloof dat het sowieso niet heel goed werkt voor mensen die deze beperking hebben om gebruik te maken van websites maar ik denk dat een soort van interactieve website een mooie oplossing is voor dit probleem. Een soort robot die je de opdracht kan geven om een artikel te bestellen en die dan samen met jou alle stappen doorloopt. Natuurlijk niet echt realistisch om te maken maar misschien voor in de toekomst. 
+  
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  - Slechtziend: De website beschikt over veel afbeeldingen dus dit betekend voor slechtzienden dat zij niet alle afbeeldingen goed kunnen zien. Erg jammer aangezien je wel een duidelijk beeld wilt krijgen van de producten en andere kleding die Patta verkoopt. 
+
+  - Kleurenblind: Nogmaals, de website is erg visueel en dit betekend dat het voor gebruikers die kleurenblind zijn vervelend is om te zien uit welke kleuren de producten bestaan. Echter staan de kleuren wel op de detailpagina van de producten. 
+
+  - Doof: Voor doven is het niet perse een probleem aangezien de website niet beschikt over veel video’s of muziek en dergelijke. De website is nogmaals erg visueel en dit zou dus niet perse een belemmering moeten zijn voor gebruikers die doof zijn. 
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  - Slechtziend: Een oplossing voor de afbeeldingen zou kunnen zijn dat het product wordt beschreven door middel van woorden in een ALT tag. Hierdoor kan de slechtziende gebruiker door middel van screenreader een beeld krijgen van het product waar de gebruiker op dat moment op staat. 
+
 
 </details>
 
@@ -91,7 +105,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/schermafbeelding.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
@@ -111,63 +125,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  Ik had de HTML van de eerste pagina gemaakt en heb dit vervolgens doorgenomen met een studentassistent. We hebben er samen rustig naar gekeken en eigenlijk was het best prima. Er waren een paar kleine dingetjes die even vervangen moesten worden zoals een span die omgezet moest worden naar een article. Dit was het eigenlijk. Ik heb niet meer dan dit besproken omdat ik er eigenlijk wel een positief gevoel over had en ook omdat ik niet meer vragen had. 
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Minder tot geen spans/divs gebruiken.
+  - Door gaan op de manier hoe ik nu bezig ben. 
 
 </details>
-
-
-
-
-
-## Voortgang 2 (week 3)
-
-<details>
-  <summary>uitwerken voor 2e voortgang</summary>
-
-  ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
-
-</details>
-
-
 
 
 
@@ -181,26 +148,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  - De screenreader werkte gelukkig om mijn versie van de website. De afbeeldingen en andere elementen waren goed begrijpbaar dmv de ALT. Het is een beetje weinig tekst wat ik hier typ maar het verliep simpelweg gewoon goed. 
 
 
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  - Valentijn en ik kwamen erachter dat de NAV-overlay lastig werd gepakt. Als je dmv de tab-key door de website navigeert dan is het focus balkje opeens uit het scherm. Dit komt dus omdat hij dan gefocust is op de nav-overlay. 
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
-
-  #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
-
-  #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  - Ik weet niet precies hoe dit opgelost kan worden maar ik denk dat ik hier even met Robert naar zal moeten kijken. 
 
 </details>
 
@@ -214,26 +170,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  Het opnieuw maken van de NAV-overlay is iets wat vrij lastig ging en waar ik best veel tijd aan kwijt was. Uiteindelijk is het wel gelukt en dit is niet gegaan zonder slag of stoot. 
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Door gaan hoe ik nu bezig ben. 
+  - Gebruik masonry grid voor de blog pagina. 
+  - Let erop dat je de pagina ook responsive maakt
 
 </details>
 
@@ -273,8 +218,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+  2. https://www.youtube.com/watch?v=KrPz_wmBsAE
+  3. https://www.w3schools.com/howto/howto_js_sidenav.asp
 
 </details>
