@@ -198,13 +198,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
-
+  <img src="readme-images/nav-overlay.png" width="375px" alt="top">
+  <img src="readme-images/blogpagina.png" width="375px" alt="top">
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  De hover over de blogpagina foto's. De bedoeling hiervan is dat de H3 op de afbeelding tevoorschijn komt bij het hoveren. 
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/blogpagina-voorbeeld.png" width="375px" alt="bummer">
 </details>
 
 
