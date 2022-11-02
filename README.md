@@ -70,7 +70,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
-  - Door middel van de Tab toets kan je door de website navigeren. Het werkt prima maar ik ben erachter gekomen dat je toch echt een muis nodig hebt om een maat te kunnen selecteren van een toets. Ik heb dus geprobeerd om een artikel te bestellen en het is dus dmv de tab key + pijltjes alleen mogelijk om een XS te bestellen. 
+  - Door middel van de Tab toets kan je door de website navigeren. Het werkt prima maar ik ben erachter gekomen dat je toch echt een muis nodig hebt om een maat van een shirt, of schoen te kunnen selecteren. Ik heb dus geprobeerd om een artikel te bestellen en het is dus dmv de tab key + pijltjes alleen mogelijk om een XS te bestellen. 
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
   - Ik denk ook hierbij dat nieuwe links een oplossing kunnen zijn voor de 'A' tags die niet gepakt worden. 
@@ -108,10 +108,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/schermafbeelding.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/dynamisch1.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="readme-images/dynamisch2.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -192,7 +192,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/voorbeeld3.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/voorbeeld2.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/voorbeeld1.jpg" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
